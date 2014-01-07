@@ -1,0 +1,25 @@
+{
+  "name": "midibin-api",
+  "version": "0.0.0",
+  "description": "API Server For midibin.io",
+  "main": "index.js",
+  "dependencies": {
+    "circle": "*",
+    "level-json": "0.0.2",
+    "default-debug": "0.0.0",
+    "debug": "~0.7.4"
+  },
+  "devDependencies": {
+    "prova": "*"
+  },
+  "keywords": [
+    "midi",
+    "api"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/midibin-api.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
